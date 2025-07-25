@@ -1,0 +1,2023 @@
+{
+  "originUrl": "https://www.adanigreenenergy.com",
+  "lastCrawled": "https://www.adanigreenenergy.com/",
+  "urls": [
+    {
+      "url": "https://www.adanigreenenergy.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "862a0d6e06383667c4f0872a5dad739c99f11d04"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us",
+      "source": "CRAWL",
+      "targetPath": "/about-us",
+      "id": "14e5ef40357fced7f610f281aa871ed4117f9367"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors",
+      "id": "a54cb9200bc4a0c40e3a6c33a94e3c939360eb1d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/anup-shah",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/anup-shah",
+      "id": "5e2f702cd5bddb4d61d9a3b027b7e2543d96471a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Anup-Shah",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/anup-shah",
+      "id": "2e6b49fc1710cccdcf1804f20fac1ef9ea434474"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Anup%20Shah",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/anup-shah",
+      "id": "7ab518c3de929ca5e73eb8072a854260166f3b4c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/dinesh-kanabar",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/dinesh-kanabar",
+      "id": "7f36d866c6b7367ec68dc10da78a9d7e25684195"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Dinesh-Kanabar",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/dinesh-kanabar",
+      "id": "714121848ca959b587d25637de1c10c0139e53ef"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/gautam-adani",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/gautam-adani",
+      "id": "33d0db095ad9b718152eeb65bf4d35abf6276e35"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/neera-saggi",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/neera-saggi",
+      "id": "6a89815250eceab9529bd21b9264aed777a82d0c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Neera-Saggi",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/neera-saggi",
+      "id": "4f06068e9d02203bc8685546ad42e31ce312df17"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Neera%20Saggi",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/neera-saggi",
+      "id": "8e324c27da95d2743d7cadfc3a65c00e1d6bb59c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/rajesh-adani",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/rajesh-adani",
+      "id": "20541050a32a7fb6277e4d072488f95cd5011c6a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/raminder-singh-gujral",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/raminder-singh-gujral",
+      "id": "cd393cd1fdb989e924719d00df466b2d576751d1"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Raminder-Singh-Gujral",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/raminder-singh-gujral",
+      "id": "181a283934bb90b9744682828197cb10797b7cff"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Raminder%20Singh%20Gujral",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/raminder-singh-gujral",
+      "id": "5d8c0b28fade292c9ad66c4678cb6ebe85cb006d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/romesh-sobti",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/romesh-sobti",
+      "id": "69caa331e1a7baf598178a95ab508ac3fd409f2f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Romesh-Sobti",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/romesh-sobti",
+      "id": "d16ba4b0b58c6cdb9cc495c3bbc6e312be74f04d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Romesh%20Sobti",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/romesh-sobti",
+      "id": "d6bfc523a87a18e2b43ce0427b611665670509da"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/sagar-adani",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/sagar-adani",
+      "id": "56593e84f12e9d33f59420a56ca0345147608d18"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/sangkaran-ratnam",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/sangkaran-ratnam",
+      "id": "d89947864f492b82cb1faec4ccb17c924135b3d0"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Sangkaran-Ratnam",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/sangkaran-ratnam",
+      "id": "1f3ea50afe57e96b326df7749abe6762d7bc0098"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Sangkaran%20Ratnam",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/sangkaran-ratnam",
+      "id": "24b981bd9ebebe561ff5e7948866f9fef2b8c24d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/vneet-s-jaain",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/vneet-s-jaain",
+      "id": "68b0dc257217d7833687c658a18c38877fd0bec8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Vneet-S-Jaain",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/vneet-s-jaain",
+      "id": "a8daa00c7e47e31305c119d5231ca752fa20dafd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/board-of-directors/Vneet%20S%20Jaain",
+      "source": "CRAWL",
+      "targetPath": "/about-us/board-of-directors/vneet-s-jaain",
+      "id": "e7e7c96a46b506fd3b4de95786d7ba3a6add1900"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/ceo-message",
+      "source": "CRAWL",
+      "targetPath": "/about-us/ceo-message",
+      "id": "e414389654871e2f4b952a9ad51c03eb96453a5b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/CEO-Message",
+      "source": "CRAWL",
+      "targetPath": "/about-us/ceo-message",
+      "id": "6d7ebdf0e1fdbca8126ddf207588bb079a9cd50e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/chairman-message",
+      "source": "CRAWL",
+      "targetPath": "/about-us/chairman-message",
+      "id": "ade9d9fe0df6cbcbb2c0d166e256e19d7456fb88"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/one-vision-one-team",
+      "source": "CRAWL",
+      "targetPath": "/about-us/one-vision-one-team",
+      "id": "b9b315874f47fd84827100880f29fbeb394fbe5b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/about-us/one-vision-one-team/gautam-adani",
+      "source": "CRAWL",
+      "targetPath": "/about-us/one-vision-one-team/gautam-adani",
+      "id": "b738dc338863c3cace3863a89946fdd81424e5c5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/careers",
+      "source": "CRAWL",
+      "targetPath": "/careers",
+      "id": "551c794a76fed2ffef5f2e01d640b145c451c88a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/contact-us",
+      "source": "CRAWL",
+      "targetPath": "/contact-us",
+      "id": "d65baddd5108b35c943b30c8751dfd14afe5ab32"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/disclaimer",
+      "source": "CRAWL",
+      "targetPath": "/disclaimer",
+      "id": "c2d448f80bf893062448283cdc8b08ca09e9f1df"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/downloads",
+      "source": "CRAWL",
+      "targetPath": "/downloads",
+      "id": "eb14eb1f674dcd2d5e7166141ddcf4cbcbfe30f7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Downloads",
+      "source": "CRAWL",
+      "targetPath": "/downloads",
+      "id": "a4196deecfceb40705d273641a6d0212fdb65045"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home",
+      "source": "CRAWL",
+      "targetPath": "/home",
+      "id": "4a4b67591863b5d4b759772beb9e66585e5caefa"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/about-us",
+      "source": "CRAWL",
+      "targetPath": "/home/about-us",
+      "id": "2ba91db2de02af50143cf00b237366f7c6164f9c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/hybridpower",
+      "source": "CRAWL",
+      "targetPath": "/home/hybridpower",
+      "id": "36129dee6811cc83beaaccda22a80dad58e7089a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/newsroom",
+      "source": "CRAWL",
+      "targetPath": "/home/newsroom",
+      "id": "8cc48adb2f313b8f630cd7d1c2d908693904f4ca"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/newsroom/media-releases",
+      "source": "CRAWL",
+      "targetPath": "/home/newsroom/media-releases",
+      "id": "1cf923235701531136954c7fa0ac5c1757896653"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/operational-excellence",
+      "source": "CRAWL",
+      "targetPath": "/home/operational-excellence",
+      "id": "a490790d7fa96e46d08e8a4fd7725e125fe2a566"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/operational-excellence/OnM%20Capabilities",
+      "source": "CRAWL",
+      "targetPath": "/home/operational-excellence/onm-capabilities",
+      "id": "51a3a91510fceca4c45582f89b95efbe5547afab"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/operational-excellence/OnM%20Capabilities/solar-power",
+      "source": "CRAWL",
+      "targetPath": "/home/operational-excellence/onm-capabilities/solar-power",
+      "id": "b718209e26759fe09b31ea1b9567d4fc9b41768e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/operational-excellence/OnM%20Capabilities/wind-power",
+      "source": "CRAWL",
+      "targetPath": "/home/operational-excellence/onm-capabilities/wind-power",
+      "id": "ee24827766dc0281eb59282adb68301ca519902a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/solar-parks",
+      "source": "CRAWL",
+      "targetPath": "/home/solar-parks",
+      "id": "d680ab42426fa638be6a0f630b15c65e0288bd1c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/solar-parks/Fatehgarh",
+      "source": "CRAWL",
+      "targetPath": "/home/solar-parks/fatehgarh",
+      "id": "4cb02ac43ca9262c00bf10b3b933f803eb4db5d2"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/solar-power",
+      "source": "CRAWL",
+      "targetPath": "/home/solar-power",
+      "id": "a97f3ffb88ca12658a78e4061708fde3b91cc84d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/solar-power/Kamuthi",
+      "source": "CRAWL",
+      "targetPath": "/home/solar-power/kamuthi",
+      "id": "8adfbbe42fe3f6db4f39753b843243819c9f4ac8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/sustainability",
+      "source": "CRAWL",
+      "targetPath": "/home/sustainability",
+      "id": "2725d7ef585b0b1373a3e54d9620dc7496db15fe"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Home/windpower",
+      "source": "CRAWL",
+      "targetPath": "/home/windpower",
+      "id": "aa696d12afcf54de4794a0add28255ccf5ef96fc"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/hybridpower",
+      "source": "CRAWL",
+      "targetPath": "/hybridpower",
+      "id": "23efe16781b820b900c584d90061ce824ccd0266"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors",
+      "source": "CRAWL",
+      "targetPath": "/investors",
+      "id": "10c037da767b908306db015c5f9550eae380d8e6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/analyst-coverage",
+      "source": "CRAWL",
+      "targetPath": "/investors/analyst-coverage",
+      "id": "034fe5ff1fb6381fa3937e18dcc586643df34b33"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/board-and-committee-charters",
+      "source": "CRAWL",
+      "targetPath": "/investors/board-and-committee-charters",
+      "id": "46291d8846d62fcb7a24530763ffed53e00b1bfd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/corporate-governance",
+      "source": "CRAWL",
+      "targetPath": "/investors/corporate-governance",
+      "id": "f27b652a9f318196ebafd7549ad96156a4aabf2d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/corporate-governance/corporate-announcement",
+      "source": "CRAWL",
+      "targetPath": "/investors/corporate-governance/corporate-announcement",
+      "id": "0be07a537fb52d18fd99aa4b7f4c29492767436c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/corporate-governance/news-advertisement",
+      "source": "CRAWL",
+      "targetPath": "/investors/corporate-governance/news-advertisement",
+      "id": "dbd5088c794cfd3ad4b351f11c09de37d93ad99c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/disclosure-under-regulation-46-of-sebi-lodr-regulations",
+      "source": "CRAWL",
+      "targetPath": "/investors/disclosure-under-regulation-46-of-sebi-lodr-regulations",
+      "id": "cc1f5441c9c522a5ecf517a7bd6247b7d59efb78"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/disclosure-under-regulation-46-of-SEBI-LODR-regulations",
+      "source": "CRAWL",
+      "targetPath": "/investors/disclosure-under-regulation-46-of-sebi-lodr-regulations",
+      "id": "8aaa34970ba4ad4f140aee1e6a4d7bb1d7f23fb3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/investor-downloads",
+      "source": "CRAWL",
+      "targetPath": "/investors/investor-downloads",
+      "id": "42c3c8da4406aa500c33157ed479e604e2ff565e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/investor-faqs",
+      "source": "CRAWL",
+      "targetPath": "/investors/investor-faqs",
+      "id": "374f1e8f2341746e5abfa99a75efc983cfb39a80"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/key-management-personnel",
+      "source": "CRAWL",
+      "targetPath": "/investors/key-management-personnel",
+      "id": "6f7cb039e9442bc9a63cfee1e29502637a02fc53"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/usd-bond-credit-ratings",
+      "source": "CRAWL",
+      "targetPath": "/investors/usd-bond-credit-ratings",
+      "id": "f1c114125b2a44a7efef16d707bb189f93a3cfca"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/investors/USD%20Bond%20Credit%20Ratings",
+      "source": "CRAWL",
+      "targetPath": "/investors/usd-bond-credit-ratings",
+      "id": "1f7c767e6a222c7598655eb8a67ecc831bc1b77c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom",
+      "source": "CRAWL",
+      "targetPath": "/newsroom",
+      "id": "44fa5d0bb5e383ab381ee40122a696198fd64a46"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-coverage",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-coverage",
+      "id": "d89daf54e3623cfb8ff5fb478cad987ec6e1e7f9"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-library",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-library",
+      "id": "817708a77498acdb6d2c87649aad724c598a5553"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases",
+      "id": "1a2d0c1b5efcfe4e375703bcd5edc617977cd7ce"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-and-government-of-rajasthan-to-set-up-indias-largest-solar-park-of-10000-mw",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-and-government-of-rajasthan-to-set-up-indias-largest-solar-park-of-10000-mw",
+      "id": "21cbc4c3d50c75076c8f303b0c25383dbb7bf0f6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-and-Government-Of-Rajasthan-To-Set-Up-Indias-Largest-Solar-Park-Of-10000-MW",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-and-government-of-rajasthan-to-set-up-indias-largest-solar-park-of-10000-mw",
+      "id": "f7eaf433fe55eae0be79551914d0f2a2b34ea5e2"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-companies-agel-and-atl-declare-energy-compact-goals-as-part-of-cop26",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-companies-agel-and-atl-declare-energy-compact-goals-as-part-of-cop26",
+      "id": "6ce7ac7f8dd86dc93a0d673b9d6c0e71ccabe8e7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-companies-AGEL-and-ATL-declare-Energy-Compact-Goals-as-part-of-COP26",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-companies-agel-and-atl-declare-energy-compact-goals-as-part-of-cop26",
+      "id": "77701409bba4bc785e2aa9871e30f8f630b83919"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-accomplishes-its-construction-financing-framework-at-usd-3-billion",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-accomplishes-its-construction-financing-framework-at-usd-3-billion",
+      "id": "4e992e1c58ce00a372d6722f48625adba46aa15a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-accomplishes-its-Construction-Financing-Framework-at-USD-3-billion",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-accomplishes-its-construction-financing-framework-at-usd-3-billion",
+      "id": "450bebf7c99ea9ce5aed565e6b0081123842fa56"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-and-totalenergies-strengthen-partnership-with-strategic-joint-venture",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-and-totalenergies-strengthen-partnership-with-strategic-joint-venture",
+      "id": "b4259609eff11b92049308cb29c487fa801889ff"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-and-TotalEnergies-Strengthen-Partnership-with-Strategic-Joint-Venture",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-and-totalenergies-strengthen-partnership-with-strategic-joint-venture",
+      "id": "f96c9d484ace81e74619ff6793cf0e5bdf5b19c5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-announces-q1fy20-result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-announces-q1fy20-result",
+      "id": "0cce45afbdec1bc3e2b21c83efec1fd5aff82be3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-announces-Q1FY20-Result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-announces-q1fy20-result",
+      "id": "0602cd79f252b9c8007c261b15825854b6533d05"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-becomes-worlds-largest-wind-solar-hybrid-power-developer",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-becomes-worlds-largest-wind-solar-hybrid-power-developer",
+      "id": "8885c707162d571e9649c94f7250496779ee9b04"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Becomes-Worlds-Largest-Wind-Solar-Hybrid-Power-Developer",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-becomes-worlds-largest-wind-solar-hybrid-power-developer",
+      "id": "e111f4b5d1dce0cf8a00755f64739aaf2608a056"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-begins-generation-from-the-worlds-largest-renewable-energy-park",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-begins-generation-from-the-worlds-largest-renewable-energy-park",
+      "id": "ff41ef8adfed6a09eba7d231b58aa4c10d0898a5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Begins-Generation-From-The-Worlds-Largest-Renewable-Energy-Park",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-begins-generation-from-the-worlds-largest-renewable-energy-park",
+      "id": "8bd14408c874b90b145d6b131e382f0744aec467"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-completes-funding-of-the-reserves-for-the-usd-750-million-holdco-bond",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-completes-funding-of-the-reserves-for-the-usd-750-million-holdco-bond",
+      "id": "5974f49f758432500f960d5deb49ec23dd42dc8c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-completes-funding-of-the-reserves-for-the-USD-750-million-Holdco-Bond",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-completes-funding-of-the-reserves-for-the-usd-750-million-holdco-bond",
+      "id": "d5f340fffe400b7b5c5d5c1f676ed3d4a798bbb1"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-completes-jv-with-totalenergies-raises-usd-300-million",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-completes-jv-with-totalenergies-raises-usd-300-million",
+      "id": "cd687529fe4f1b4846f09d27bfeb36504178412e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-completes-JV-with-TotalEnergies-raises-USD-300-million",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-completes-jv-with-totalenergies-raises-usd-300-million",
+      "id": "a2a0296dc9016e27eee862efaf44be972078f04f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-concludes-ppa-tie-up-for-entire-8000-mw-manufacturing-linked-seci-tender",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-concludes-ppa-tie-up-for-entire-8000-mw-manufacturing-linked-seci-tender",
+      "id": "1a9ea22c508798f21bdc7406143185f4f32b8a66"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-concludes-PPA-tie-up-for-entire-8000-MW-manufacturing-linked-SECI-tender",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-concludes-ppa-tie-up-for-entire-8000-mw-manufacturing-linked-seci-tender",
+      "id": "f63121cd3ab744bd826f3a74fb131a69d5f379b6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-conferred-with-prestigious-platinum-environment-award-2022",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-conferred-with-prestigious-platinum-environment-award-2022",
+      "id": "f337bf21a408f84dd6582576e8bdf6e818842d17"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-conferred-with-prestigious-Platinum-Environment-Award-2022",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-conferred-with-prestigious-platinum-environment-award-2022",
+      "id": "0cd8969812f32b1766911212c16895976d4a9834"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-delivers-cash-backed-redemption-plan-for-usd-750-million-holdco-bond",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-delivers-cash-backed-redemption-plan-for-usd-750-million-holdco-bond",
+      "id": "350a9621f0297bd4476f55cfd97a1282e5611fdd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-delivers-cash-backed-redemption-plan-for-USD-750-million-Holdco-bond",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-delivers-cash-backed-redemption-plan-for-usd-750-million-holdco-bond",
+      "id": "2646a1bfc906bca0ac3759a0cefcce88f7ed59b3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-achieves-major-milestone-in-its-capital-management-journey",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-achieves-major-milestone-in-its-capital-management-journey",
+      "id": "8225915b18e581b123bb61a0c6cd68d230841a82"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-announces-9m-fy25-results-with-ebitda-of-rs-6366-crores-up-by-18-percent-yoy",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-announces-9m-fy25-results-with-ebitda-of-rs-6366-crores-up-by-18-percent-yoy",
+      "id": "938f78af583f2e79cc4936d152af74ca13bda1be"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-announces-h1-fy25-results-with-ebidta-of-rs-4518-crores-up-by-20-yoy",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-announces-h1-fy25-results-with-ebidta-of-rs-4518-crores-up-by-20-yoy",
+      "id": "6809e2f55eb0555072d73e5d7d8be88f5afeffcb"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-announces-strong-q1-fy25-results-with-ebitda-of-rs-2374-crore-up-by-23-percentage",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-announces-strong-q1-fy25-results-with-ebitda-of-rs-2374-crore-up-by-23-percentage",
+      "id": "eb8107186510001956cd11cb2ed975d1b1670305"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Announces-Strong-Q1-FY25-Results-with-EBITDA-of-Rs-2374-crore-up-by-23-percentage",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-announces-strong-q1-fy25-results-with-ebitda-of-rs-2374-crore-up-by-23-percentage",
+      "id": "b0eab518224cf47fc81638216dbb1c83486ce79a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-becomes-indias-first-to-surpass-10000-mw-renewable-energy",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-becomes-indias-first-to-surpass-10000-mw-renewable-energy",
+      "id": "fda35f6c05a47652a048a3db652966a939be97cc"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-becomes-Indias-first-to-surpass-10000-MW-renewable-energy",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-becomes-indias-first-to-surpass-10000-mw-renewable-energy",
+      "id": "b5916a6d25b6b584bdbe1add4b2a144b3329a687"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-completes-acquisition-of-205-mw-operating-solar-assets",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-completes-acquisition-of-205-mw-operating-solar-assets",
+      "id": "d742b7e38f5b03b45753fc7d0015c862e2c08870"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Completes-Acquisition-of-205-MW-Operating-Solar-Assets",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-completes-acquisition-of-205-mw-operating-solar-assets",
+      "id": "394e96c7f9abe3c1bb6f877dc453b3c34106e19f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-completes-operationalization--of-300-mw-wind-power-project-in-gujarat",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-completes-operationalization-of-300-mw-wind-power-project-in-gujarat",
+      "id": "31c2cdcdcb27a9dd6f6fba8323a24a4f4d348d93"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-completes-operationalization--of-300-MW-wind-power-project-in-Gujarat",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-completes-operationalization-of-300-mw-wind-power-project-in-gujarat",
+      "id": "690ed09446d144e7cd1c28dd83b967e2fd664bd7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-continues-to-ramp-up-focus-on-esg",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-continues-to-ramp-up-focus-on-esg",
+      "id": "08aeb7c79ec6da1e35522dff11cd534f4329a879"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Continues-to-Ramp-Up-Focus-On-ESG",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-continues-to-ramp-up-focus-on-esg",
+      "id": "dcfab7ddaf1ec77174bc8e570d66044f24f8f444"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-fully-redeems-usd-750-mn-holdco-notes",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-fully-redeems-usd-750-mn-holdco-notes",
+      "id": "a28556591ec4483b4b6a5c313a1324aa7ba3efb7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-fully-redeems-USD-750-Mn-Holdco-Notes",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-fully-redeems-usd-750-mn-holdco-notes",
+      "id": "b5ffa430e10335881162f5bc2bee1f0f094baec4"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-is-indias-first-renewable-energy-company-to-join-the-utilities",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-is-indias-first-renewable-energy-company-to-join-the-utilities",
+      "id": "ad193c0aadd9db9421ce3d4486f88fd8ff3e525b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited--consolidated-results-for-q1-fy-21",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-consolidated-results-for-q1-fy-21",
+      "id": "9bffc3aba84da87d5ef01c4d629b9e2a60f08fca"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited--Consolidated-Results-for-Q1-FY-21",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-consolidated-results-for-q1-fy-21",
+      "id": "5d311337da07ca82428a84b07c11604742d9c08d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-agel-consummates-2148-gw-joint-venture-with-total-receives-inr-3707-cr",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-agel-consummates-2148-gw-joint-venture-with-total-receives-inr-3707-cr",
+      "id": "d407ac040c70cd9bc63b72050e1c78248316a37c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-AGEL-consummates-2148-GW-joint-venture-with-TOTAL-Receives-INR-3707-Cr",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-agel-consummates-2148-gw-joint-venture-with-total-receives-inr-3707-cr",
+      "id": "d1623110dc0dd46b58a1c947d7e145d4d1a1e3b1"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-announces-consolidated-results-for-q3-and-9m-fy20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-consolidated-results-for-q3-and-9m-fy20",
+      "id": "62fdff50ae7598f5530a4ad14fc38d0687b7ddca"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-announces-Consolidated-Results-for-Q3-and-9M-FY20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-consolidated-results-for-q3-and-9m-fy20",
+      "id": "0574934abcd7a340d99094a3c36582b40c809b77"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-announces-h1-fy19-result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-h1-fy19-result",
+      "id": "4dc39365dacc81675aadc3ec60132e4ce367f86d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-announces-H1-FY19-Result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-h1-fy19-result",
+      "id": "0d33ca9836b648474898dae3f1f210467f4e3a28"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-announces-q1-fy19-result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-q1-fy19-result",
+      "id": "be254b8ca1957556daf40a7d5a94a1676b0d3315"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-announces-Q1-FY19-Result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-announces-q1-fy19-result",
+      "id": "e346e22c7621f623bf354acbdcd99effdb2b989e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-consolidated-results-for-q2-and-h1-fy20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-consolidated-results-for-q2-and-h1-fy20",
+      "id": "d0d64528ac42c689fcbfb3b390ae9120af1ba212"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-Consolidated-Results-for-Q2-and-H1-FY20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-consolidated-results-for-q2-and-h1-fy20",
+      "id": "267f5aa79411f19020d2b6de47b28ae26f0109ff"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-limited-expands-total-jv-with-inr-1632-cr-solar-assets-acquisition",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-expands-total-jv-with-inr-1632-cr-solar-assets-acquisition",
+      "id": "a617edc218ae723b2423017b002e699ad1f311c1"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Limited-expands-TOTAL-JV-with-INR-1632-Cr-solar-assets-acquisition",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-limited-expands-total-jv-with-inr-1632-cr-solar-assets-acquisition",
+      "id": "d47454f8f7c175fe012d35a56c677a9de76534bd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-announces-fy22-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-fy22-results",
+      "id": "46b48753405ae94eaf70bc19d074b01b1904676c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-FY22-Results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-fy22-results",
+      "id": "d8a9e9fdc6a45dc2e631efccdf153306ed00a722"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-announces-fy23-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-fy23-results",
+      "id": "57dadfbaa4e794a745ab9f1e47f1f10d355a3461"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-FY23-Results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-fy23-results",
+      "id": "4f32d1db32e5f50f59cc2ae96dad89fbbc8bb677"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-announces-h1-fy23-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-h1-fy23-results",
+      "id": "65356cde915559e93185ffae9d49286e044f7383"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-H1-FY23-Results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-h1-fy23-results",
+      "id": "ed841e4c07c889c5b749045b8076aec64662b81b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy23-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy23-results",
+      "id": "954cd99575fc5232fb243aa40d6f7e69579d9f65"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-Q1-FY23-Results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy23-results",
+      "id": "95b7aee0b0edb290788f39edffaf1c547c18059a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy24-results-ebitda-from-power-supply-of-rs-1938-cr-up-by-53-yoy",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy24-results-ebitda-from-power-supply-of-rs-1938-cr-up-by-53-yoy",
+      "id": "8cf3754ac71a9225ca62afa569c6551b8730a71f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-Q1-FY24-results-EBITDA-from-power-supply-of-Rs-1938-Cr-up-by-53-YoY",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-announces-q1-fy24-results-ebitda-from-power-supply-of-rs-1938-cr-up-by-53-yoy",
+      "id": "4556dc0b90bfc147b2fd71af5c2ab90c8c0586f4"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-consolidated-results-for-fy20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-consolidated-results-for-fy20",
+      "id": "a5188eca46b189f2b96c6e5e1f7e44f680441711"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-Consolidated-Results-for-FY20",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-consolidated-results-for-fy20",
+      "id": "03a691179275cf8c5a6a89a2e08ebb7ae4c433a5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-q2-h1-fy22-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-q2-h1-fy22-results",
+      "id": "ef168b8241f2b056ec2beefc70189d91bb1595b5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-Q2-H1-FY22-RESULTS",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-q2-h1-fy22-results",
+      "id": "46e228facf125b321b4775fd01388e49fe44be3e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-reports-h1-fy24-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-reports-h1-fy24-results",
+      "id": "bf572cd1368e7138dfcd3b3802158727c7d63d70"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-reports-H1-FY24-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-reports-h1-fy24-results",
+      "id": "b0b12e0b3c4139bf5010d8ad836f5e526ed569ee"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ltd-reports-robust-growth-in-its--9m-fy24-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-reports-robust-growth-in-its-9m-fy24-results",
+      "id": "562e47c94efcc5cb8ec1486ecdcab114480fba95"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-reports-robust-growth-in-its--9M-FY24-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ltd-reports-robust-growth-in-its-9m-fy24-results",
+      "id": "1eb139198afa80a8311d08e633b7945c0b20e082"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-operationalizes-1000-mw-of-the-30000-mw-khavda-renewable-energy-park",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-operationalizes-1000-mw-of-the-30000-mw-khavda-renewable-energy-park",
+      "id": "ed29c080e320486c710cee3eec8046d53ada16d6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-operationalizes-1000-MW-of-the-30000-MW-Khavda-renewable-energy-park",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-operationalizes-1000-mw-of-the-30000-mw-khavda-renewable-energy-park",
+      "id": "2a1bcbda65f24fb1430487e8da91bf55a4463922"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-raises-rs-612-cr-for-debt-refinancing",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-raises-rs-612-cr-for-debt-refinancing",
+      "id": "abaf3112a3acb9a13082fdba7a9e6bdebc4b8128"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-raises-Rs-612-Cr-for-debt-refinancing",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-raises-rs-612-cr-for-debt-refinancing",
+      "id": "1119dbb970c2e0af4b75a9f7e732a4d0c14a9ffb"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-raises-usd-135-billion-in-one-of-asias-largest-project-financing-deals",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-raises-usd-135-billion-in-one-of-asias-largest-project-financing-deals",
+      "id": "f2bd1be2dccf037fee8e69e42dec23cb677075f0"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-raises-USD-135-billion-in-one-of-Asias-largest-project-financing-deals",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-raises-usd-135-billion-in-one-of-asias-largest-project-financing-deals",
+      "id": "a358042040af4d2d14ff18c275deb562fd074004"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ramps-up-its-esg-score",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ramps-up-its-esg-score",
+      "id": "1ec2d1f64802ffccb2533a0b4b11b8ef31f47dda"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-ramps-up-its-ESG-score",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ramps-up-its-esg-score",
+      "id": "121c0019a25e19b6deec2a210dcb3953c59d5157"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-ranks-among-top-3-global-solar-pv-developer",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ranks-among-top-3-global-solar-pv-developer",
+      "id": "430e4c85235a9085915ac5bf8235ada6db557247"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ranks-Among-Top-3-Global-Solar-PV-Developer",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-ranks-among-top-3-global-solar-pv-developer",
+      "id": "d7a7230083e96d99c11e9bc09d92771aeabfee38"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-receives-loa-for-300-mw-wind-power-project",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-receives-loa-for-300-mw-wind-power-project",
+      "id": "eee358d0f9142a7e40f211c6f93d6ba6a8ce54e5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-receives-LOA-for-300-MW-Wind-Power-Project",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-receives-loa-for-300-mw-wind-power-project",
+      "id": "6685b3c3cccfc40227c3de6d1adf00b184b9f377"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-reports-ebitda-of-rs-7222-crore-up-30-yoy-in-fy24",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-reports-ebitda-of-rs-7222-crore-up-30-yoy-in-fy24",
+      "id": "c0071d343fe6bee7500c0ed7156eba534312ff86"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-reports-EBITDA-of-Rs-7222-crore-up-30-YoY-in-FY24",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-reports-ebitda-of-rs-7222-crore-up-30-yoy-in-fy24",
+      "id": "4489181243881468b3ebf1ddb2406872f484cf57"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-sets-new-benchmark-surpassing-12000-mw-renewable-energy-capacity",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-sets-new-benchmark-surpassing-12000-mw-renewable-energy-capacity",
+      "id": "9e615080228e186693ed070bd64944c0863bf41a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-sets-record-with-over-15000-mw-of-installed-renewable-energy-capacity",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-sets-record-with-over-15000-mw-of-installed-renewable-energy-capacity",
+      "id": "2155629addddd5a1ab0d6f988b6b09daae146f10"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-signs-agreement-to-acquire--205-mw-solar-assets",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-signs-agreement-to-acquire-205-mw-solar-assets",
+      "id": "c6439d0e39627e92e2a1f4d968fab82fa724bc10"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-signs-agreement-to-acquire--205-MW-solar-assets",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-signs-agreement-to-acquire-205-mw-solar-assets",
+      "id": "400368286d7185fe2766563f28a230ddc33eec58"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-to-acquire-40-mw-operational--solar-asset-in-odisha",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-40-mw-operational-solar-asset-in-odisha",
+      "id": "b62da0f4615566e5168866b35ee1878064cc80ae"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-to-acquire-40-MW-operational--Solar-Asset-in-Odisha",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-40-mw-operational-solar-asset-in-odisha",
+      "id": "6a014bb66c5c29d27539a953938e182cf2d9387b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-to-acquire-50-mw-solar-asset-from-skypower-global",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-50-mw-solar-asset-from-skypower-global",
+      "id": "611752044c8f9758f2b5720bb0e19e638713b739"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-to-acquire-50-MW-Solar-Asset-from-SkyPower-Global",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-50-mw-solar-asset-from-skypower-global",
+      "id": "14074ea5c87556b6f882be7c058b122bba8a91b7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-to-acquire-75-mw-operating-solar-projects-from-sterling--wilson-for-rs-446-cr",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-75-mw-operating-solar-projects-from-sterling-wilson-for-rs-446-cr",
+      "id": "f69bd6f785512d97adf77f90b60f0afdadd6c9a5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-to-acquire-75-MW-operating-solar-projects-from-Sterling--Wilson-for-Rs-446-Cr",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-75-mw-operating-solar-projects-from-sterling-wilson-for-rs-446-cr",
+      "id": "202acb0b13bd4abdec623183483558eafd046be9"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-to-acquire-sb-energys-5-gw-india-renewable-power-portfolio",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-sb-energys-5-gw-india-renewable-power-portfolio",
+      "id": "fb57ced963ad7bd97222addbbe7368783237ed8c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-to-acquire-SB-Energys-5-GW-India-renewable-power-portfolio",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-to-acquire-sb-energys-5-gw-india-renewable-power-portfolio",
+      "id": "a6c232ec89670b8693ef2ccb29ad398266eff03c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-wins-1250-mw-energy-storage-capacity-from-uppcl",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-wins-1250-mw-energy-storage-capacity-from-uppcl",
+      "id": "b01c59a9237217cbc693795163ea7c3fce1c8867"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-wins-the-worlds-largest-solar-award",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-wins-the-worlds-largest-solar-award",
+      "id": "0a5087f7f47034f6671f070456f6be9e9549746b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-wins-the-worlds-largest-solar-award",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-energy-wins-the-worlds-largest-solar-award",
+      "id": "8a97f5b1f265b7cfe752a86159d19c1d145d59a0"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-first-in-india-to-achieve-gri-south-asia-charter-member-status",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-first-in-india-to-achieve-gri-south-asia-charter-member-status",
+      "id": "8598a739e34a8115f78921af16accae8a1ea0017"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-first-in-India-to-achieve-GRI-South-Asia-charter-member-status",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-first-in-india-to-achieve-gri-south-asia-charter-member-status",
+      "id": "cfa20f8078893709c3049e199e268e158bdbd852"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-operationalizes-180-mw--solar-power-plant-in-rajasthan",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-operationalizes-180-mw-solar-power-plant-in-rajasthan",
+      "id": "86ce2d87527527d993107259e234cecf96e59a72"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-operationalizes-180-MW--solar-power-plant-in-Rajasthan",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-operationalizes-180-mw-solar-power-plant-in-rajasthan",
+      "id": "fb4c4ab7f9f2faf4f23a50daa3da95824b0eb088"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-raises-japanese-yen-denominated-refinancing-facility",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-raises-japanese-yen-denominated-refinancing-facility",
+      "id": "03249f9a8c6dd463998d57c8ff2bfee30733447b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-raises-Japanese-Yen-denominated-Refinancing-Facility",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-raises-japanese-yen-denominated-refinancing-facility",
+      "id": "dcaffe96629a93758a5d152c9771f365fd04d316"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-raises-usd-288-mn-construction-facility",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-raises-usd-288-mn-construction-facility",
+      "id": "22975311818a5e0658a730e9b393191c8907a1ab"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-raises-USD-288-Mn-Construction-Facility",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-raises-usd-288-mn-construction-facility",
+      "id": "cdc00afa7cd57e1bea9f32de9d99ec6a48a3c667"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-ranked-first-in-asia-and-among-top-10-re-companies-globally-for-esg-performance",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-ranked-first-in-asia-and-among-top-10-re-companies-globally-for-esg-performance",
+      "id": "6668d0be432a61e1e6a6c4d5c89bd48e7bc3e091"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-ranked-first-in-Asia-and-among-top-10-RE-companies-globally-for-ESG-performance",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-ranked-first-in-asia-and-among-top-10-re-companies-globally-for-esg-performance",
+      "id": "28e568b7dde71a78e91feb2768984e1852c5f35a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-secures-usd-400-million-from--international-banks-for-750-mw-power-projects",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-secures-usd-400-million-from-international-banks-for-750-mw-power-projects",
+      "id": "aa9b4bf83813b2664a754682b42fc5fa77bb74c2"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Secures-USD-400-million-from--international-banks-for-750-MW-power-projects",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-secures-usd-400-million-from-international-banks-for-750-mw-power-projects",
+      "id": "7efff7f6487e05a8cf6601f6671baccf2afedc9a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-surpasses-usd-1-billion-in-ebitda-reports-robust-fy25-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-surpasses-usd-1-billion-in-ebitda-reports-robust-fy25-results",
+      "id": "65d24baaaaf2e418ce5270669ce8745788321456"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-switches-on-indias-first-hybrid-power-plant",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-switches-on-indias-first-hybrid-power-plant",
+      "id": "0afe1fe178d1accea7c2049166cd0111711c785e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-switches-on-Indias-first-hybrid-power-plant",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-switches-on-indias-first-hybrid-power-plant",
+      "id": "cc8277944943d35bc0da3970f3f924ce9027e954"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-turns-water-positive-for-plants-with-operating-capacity-of-over-200-mw",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-turns-water-positive-for-plants-with-operating-capacity-of-over-200-mw",
+      "id": "38ca21e7c0c449793b71a69d355744d19bd822d0"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-turns-Water-Positive-for-plants-with-operating-capacity-of-over-200-MW",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-turns-water-positive-for-plants-with-operating-capacity-of-over-200-mw",
+      "id": "b814c3dc7d7b25623b49619399e821e4b0ece61c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-wins-global-sponsor-of-the-year-award",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-wins-global-sponsor-of-the-year-award",
+      "id": "0ab8d902254acc0d34aa61746b72390c19f3ab86"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-wins-Global-Sponsor-of-the-Year-award",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-wins-global-sponsor-of-the-year-award",
+      "id": "3cb361b6f3439d9e3ec8b1af28e6946988b8cca7"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-wins-sustainability-4-0-award-conferred-jointly-by-frost-and-sullivan-and-teri",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-wins-sustainability-4-0-award-conferred-jointly-by-frost-and-sullivan-and-teri",
+      "id": "24ba0dc911aecda40957f81ecb1d4eecb5854772"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Wins-Sustainability-4-0-Award-Conferred-jointly-by-Frost-and-Sullivan-and-TERI",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-green-wins-sustainability-4-0-award-conferred-jointly-by-frost-and-sullivan-and-teri",
+      "id": "1669566e91b6155d3ad12c5be2d12f72094d7b03"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-greens-entire-operating-capacity-is-now-zero-waste-to-landfill-certified",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-greens-entire-operating-capacity-is-now-zero-waste-to-landfill-certified",
+      "id": "1cb95a90674e59398379105e25550729c0c13d9d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Greens-entire-operating-capacity-is-now-Zero-Waste-to-Landfill-certified",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-greens-entire-operating-capacity-is-now-zero-waste-to-landfill-certified",
+      "id": "4c81e59fe7bf7c6354b62089a484678cb5e5be46"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-greens-operating-renewable-portfolio-reaches-8024-mw-the-largest-in-india",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-greens-operating-renewable-portfolio-reaches-8024-mw-the-largest-in-india",
+      "id": "0da537aa9f111fbd88128241f6126131b505e81d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Greens-Operating-Renewable-Portfolio-reaches-8024-MW-the-largest-in-India",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-greens-operating-renewable-portfolio-reaches-8024-mw-the-largest-in-india",
+      "id": "46d1ff54ccb955b8f33b6d3c157f7d7ee6d57218"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-group-commissions-50-mw-solar-plant-in-mahoba-up",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-group-commissions-50-mw-solar-plant-in-mahoba-up",
+      "id": "263f93ca0384bb9428457ce6fe9f699d4ba20952"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Group-commissions-50-MW-solar-plant-in-Mahoba-UP",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-group-commissions-50-mw-solar-plant-in-mahoba-up",
+      "id": "c1ca00c22b26f688f4d277ecb82a084dd5442804"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-group-unveils-100-mw-solar-plant-in-bathinda-punjab",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-group-unveils-100-mw-solar-plant-in-bathinda-punjab",
+      "id": "b72fdb16ae1ad55cd580ea8ef6f2657903ff73af"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Group-unveils-100-MW-solar-plant-in-Bathinda-Punjab",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-group-unveils-100-mw-solar-plant-in-bathinda-punjab",
+      "id": "68104428e84a2786925551df41f99e28a9f1b219"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-portfolio-companies-complete-inr-15400-cr-primary-equity-transaction-with-ihc",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-portfolio-companies-complete-inr-15400-cr-primary-equity-transaction-with-ihc",
+      "id": "d9fce14d540c8ce12f0e5b9c374c52c0fbf86b3a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Portfolio-Companies-complete-INR-15400-Cr-primary-equity-transaction-with-IHC",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-portfolio-companies-complete-inr-15400-cr-primary-equity-transaction-with-ihc",
+      "id": "07b37c5aad345327a1c1961ba301e5ce1c1b95d2"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-portfolio-companies-complete-inr-15446-cr-secondary-equity-transaction-with-gqg-partners",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-portfolio-companies-complete-inr-15446-cr-secondary-equity-transaction-with-gqg-partners",
+      "id": "306c24ebed4ec103e389c2c1c874061710b2ff30"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Portfolio-companies-complete-INR-15446-Cr-secondary-equity-transaction-with-GQG-Partners",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-portfolio-companies-complete-inr-15446-cr-secondary-equity-transaction-with-gqg-partners",
+      "id": "c2c5c6b0966fc1db798d84149e8a0aa9b3ceaaea"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-ranked-as-the-largest-solar-power-generation-owner-in-the-world",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-ranked-as-the-largest-solar-power-generation-owner-in-the-world",
+      "id": "e0448ad145ae7ee8bcf5f57497c953689c688597"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-ranked-as-the-largest-solar-power-generation-owner-in-the-world",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-ranked-as-the-largest-solar-power-generation-owner-in-the-world",
+      "id": "458fec23e7e7d117ea19997c16dd96fc8b4bc1b4"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-signs-worlds-largest-green-ppa-with-seci",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-signs-worlds-largest-green-ppa-with-seci",
+      "id": "f024419193d15f5862ef05b3ae06d17fd520a53f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Signs-Worlds-Largest-Green-PPA-with-SECI",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-signs-worlds-largest-green-ppa-with-seci",
+      "id": "fce4ab8afa65f31b4d00cfb5146fdb7f75e3adda"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-targets-solar-power-capacity-of-10",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-targets-solar-power-capacity-of-10",
+      "id": "63aa9199da8a445a5caa5371b6aab05a90e8bbe8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-targets-solar-power-capacity-of-10",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-targets-solar-power-capacity-of-10",
+      "id": "845eaec784277bbb9d1656abbfa207d168448881"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-unveils-the-worlds-largest-solar-power",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-unveils-the-worlds-largest-solar-power",
+      "id": "dcae4269651db862ea776e7ddf6ef8009a8e6465"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-unveils-the-worlds-largest-solar-power",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/adani-unveils-the-worlds-largest-solar-power",
+      "id": "75a447524dd042f129dfdd5abd0c0e4431653560"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel---media-release---fy21",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-media-release-fy21",
+      "id": "bcaff3917cc07c5306aeaf968a5cf6b7dfd058d8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL---Media-Release---FY21",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-media-release-fy21",
+      "id": "3317132b1ce67f206a1407d71086844c02466256"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-and-totalenergies-to-expand-partnership-totalenergies-to-invest-usd-300m",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-and-totalenergies-to-expand-partnership-totalenergies-to-invest-usd-300m",
+      "id": "7c8292cf8de4f66d1ed85d4d53c3ca35e4c75c8b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-And-TotalEnergies-To-Expand-Partnership-TotalEnergies-To-Invest-USD-300m",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-and-totalenergies-to-expand-partnership-totalenergies-to-invest-usd-300m",
+      "id": "cf82934a9b2767f5f307f175bdd5dbbf1a3618c8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-announces-q3fy21-result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-announces-q3fy21-result",
+      "id": "899ab48c2d4e046e77dda1c34d8f7a718b228776"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-announces-Q3FY21-Result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-announces-q3fy21-result",
+      "id": "453f6568733b05816182c2a78fb03a2bcda07504"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-commissions-100-mw-gujarat-wind-power-project-5-months-before-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-100-mw-gujarat-wind-power-project-5-months-before-schedule",
+      "id": "9e27ed0d035bd0b5caef05b3dcc986e0c8dc7bfd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-commissions-100-MW-Gujarat-Wind-Power-Project-5-months-before-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-100-mw-gujarat-wind-power-project-5-months-before-schedule",
+      "id": "178597e012aee6ed362a3a54d767271f89567188"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-commissions-100-mw-solar-power-plant-at-khirsara",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-100-mw-solar-power-plant-at-khirsara",
+      "id": "0bb3242a985a14fa16d0bea54cdb3187c0d8fdb2"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-commissions-100-mw-solar-power-plants-in-uttar-pradesh-ahead-of-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-100-mw-solar-power-plants-in-uttar-pradesh-ahead-of-schedule",
+      "id": "5121e7cac530f8d60c4e626b65cf6ca33341a752"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-commissions-100-MW-Solar-Power-Plants-in-Uttar-Pradesh-ahead-of-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-100-mw-solar-power-plants-in-uttar-pradesh-ahead-of-schedule",
+      "id": "eb362ccecc8417df460e8007dbf2a03be93c9a16"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-commissions-150-mw-solar-power-plant-at-kutchh-gujarat-3-months-ahead-of-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-150-mw-solar-power-plant-at-kutchh-gujarat-3-months-ahead-of-schedule",
+      "id": "774d8d505f1a208f57f44ad401ac7fd2da490a58"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-commissions-150-MW-Solar-Power-Plant-at-Kutchh-Gujarat-3-months-ahead-of-schedule",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-150-mw-solar-power-plant-at-kutchh-gujarat-3-months-ahead-of-schedule",
+      "id": "e6123945f80a5d3d254793bace4be9b1e01c31cb"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-commissions-25-mw-solar-power-plant-at-chitrakoot-uttar-pradesh",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-25-mw-solar-power-plant-at-chitrakoot-uttar-pradesh",
+      "id": "8f8d61c41498f9fb2a6a189dabee54b1533c5b2e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-commissions-25-MW-Solar-Power-Plant-at-Chitrakoot-Uttar-Pradesh",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-commissions-25-mw-solar-power-plant-at-chitrakoot-uttar-pradesh",
+      "id": "878af87b14dfda14a5102738e03b31af6e3cec92"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-completed-the-acquisition-of-sb-energy-holdings-ltd",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-completed-the-acquisition-of-sb-energy-holdings-ltd",
+      "id": "e0a0be353ecda445d7267405da70bf747e0bb41c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-completed-the-acquisition-of-SB-Energy-Holdings-Ltd",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-completed-the-acquisition-of-sb-energy-holdings-ltd",
+      "id": "4795b54c85c1deb64dc53cf6a1a557bc733af159"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-operational-wind-generation-capacity-crosses-1gw",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-operational-wind-generation-capacity-crosses-1gw",
+      "id": "ac9c05521edac512cc2ea3788e3394c452c2a7bd"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-Operational-Wind-Generation-capacity-crosses-1GW",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-operational-wind-generation-capacity-crosses-1gw",
+      "id": "f7c42c1f3605841034b2ceca5b78b7a27ed00a84"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-q1-fy22-results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q1-fy22-results",
+      "id": "239e566a4f3e6f6d86d09bd22f3591ff4a274b9a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-Q1-FY22-Results",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q1-fy22-results",
+      "id": "549ff68033ec17ccf527e48ae9305f3324f86955"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-q2-fy21-result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q2-fy21-result",
+      "id": "6804b20b517eb1e5be8de238bfa44e9d10114c53"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-Q2-FY21-Result",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q2-fy21-result",
+      "id": "b8aacb2a6656e0ded23626fe3b46351632f077c3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-q2fy22",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q2fy22",
+      "id": "eae0a3f1fa7ea460f96773a1b9357858ed334e23"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-Q2FY22",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q2fy22",
+      "id": "c8b9bad87642354239a4b7f5e046f3e2bf92e306"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-q3fy22",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q3fy22",
+      "id": "b610080c1bf772c7a4f1ba8dcb9b2bb2373d402e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-Q3FY22",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-q3fy22",
+      "id": "f2fb3c0624ea3a8f729b747c158510c0a90c43b9"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/agel-receives-loa-for-600-mw-wind-solar-hybrid-power-project",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-receives-loa-for-600-mw-wind-solar-hybrid-power-project",
+      "id": "0dfcd83294c717aded056de4194e222e6c7d776f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/AGEL-receives-LOA-for-600-MW-Wind-Solar-Hybrid-Power-Project",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/agel-receives-loa-for-600-mw-wind-solar-hybrid-power-project",
+      "id": "cf4521df267b89242ee2dd5dbd118229fdf0c450"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/international-holding-company-to-invest-usd-2-billion-in-adani-groups-green-portfolio",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/international-holding-company-to-invest-usd-2-billion-in-adani-groups-green-portfolio",
+      "id": "e8d2537bc50d3a2c32e003bf7d1ac0c923fae38d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/International-Holding-Company-to-invest-USD-2-billion-in-Adani-Groups-green-portfolio",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/international-holding-company-to-invest-usd-2-billion-in-adani-groups-green-portfolio",
+      "id": "a4b2bbc47866ef98707a91553ec98ef312e08a73"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/international-rating-agencies-affirms",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/international-rating-agencies-affirms",
+      "id": "57b5bf5c8b45b72682d0dc05bb533eae27052964"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/International-Rating-Agencies-affirms",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/international-rating-agencies-affirms",
+      "id": "dc48f3b559234c8221eb4ff9fc61b74cdd1bded8"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/major-new-science-museum-gallery-explores-urgent-energy-transition-needed-to-limit-climate-change",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/major-new-science-museum-gallery-explores-urgent-energy-transition-needed-to-limit-climate-change",
+      "id": "b29d056ea70433c3fa7a38bc8ecf651e8184261a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Major-New-Science-Museum-Gallery-Explores-Urgent-Energy-Transition-Needed-To-Limit-Climate-Change",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/major-new-science-museum-gallery-explores-urgent-energy-transition-needed-to-limit-climate-change",
+      "id": "473eb6c3793d9a4733fc692cbc1d3afaafc88a1a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/media-clarification-on-3-fpis-owning-adani-shares-frozen",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/media-clarification-on-3-fpis-owning-adani-shares-frozen",
+      "id": "dd30a3e667c1581851f5d7748ae140a5d2192d9f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/media-statement-24-01-2025",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/media-statement-24-01-2025",
+      "id": "08b0d70ec6e810e1b8cb898e08d0e16a853cfc38"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/promoters-to-invest-inr-9350-crore-equity-in-adani-green",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/promoters-to-invest-inr-9350-crore-equity-in-adani-green",
+      "id": "abeb1c898572afd5f65939d5370b9465fcdb06d9"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Promoters-to-Invest-INR-9350-crore-equity-in-Adani-Green",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/promoters-to-invest-inr-9350-crore-equity-in-adani-green",
+      "id": "935f2684b6cf1ac0355694313bc9c29e7c0b845f"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/total-to-invest-usd-510-million-for-50-percent-stake-in-2148-mwac-solar-power-projects-held-by-agel",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/total-to-invest-usd-510-million-for-50-percent-stake-in-2148-mwac-solar-power-projects-held-by-agel",
+      "id": "047a7e4167d02a222a4e60a4caa89329d47811fa"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/TOTAL-to-invest-USD-510-Million-for-50-percent-stake-in-2148-MWac-solar-power-projects-held-by-AGEL",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/media-releases/total-to-invest-usd-510-million-for-50-percent-stake-in-2148-mwac-solar-power-projects-held-by-agel",
+      "id": "df1be46d0eb0c08648abaf37452d3bafeb0b1ad3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/newsroom/social-media",
+      "source": "CRAWL",
+      "targetPath": "/newsroom/social-media",
+      "id": "fd6105efa67125afa74f7cf131deae53f29c758d"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence",
+      "id": "28d786038231e0b10e2f9b5f7bee984e054cbae6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/onm-capabilities",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities",
+      "id": "a0a6b8cf070e117519e71669c4fabce7e08dc47a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/onm-capabilities/solar-power",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities/solar-power",
+      "id": "656f84a3ac03ba455305ca603e581e01e9f0fc11"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/onm-capabilities/wind-power",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities/wind-power",
+      "id": "042e4ebc1155df5c316ea4602c6ff9c480b6ff7c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/OnM%20Capabilities",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities",
+      "id": "aa223a3f99b8e9fa9dae75656cf3cd1966a8bb4b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/OnM%20Capabilities/solar-power",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities/solar-power",
+      "id": "133d7c1d638369c9ed025c2afd94a00aef60c847"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/operational-excellence/OnM%20Capabilities/wind-power",
+      "source": "CRAWL",
+      "targetPath": "/operational-excellence/onm-capabilities/wind-power",
+      "id": "d930495e69980b7d9afc544b20d11e11cd93b76b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/privacy-policy",
+      "source": "CRAWL",
+      "targetPath": "/privacy-policy",
+      "id": "578b4c47571b000127996d1165dce29ebcb9c4f6"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sitemap",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "b948a351e38b0c02eb0b6184d0a7aa70ffb16d9a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-parks",
+      "source": "CRAWL",
+      "targetPath": "/solar-parks",
+      "id": "c0c9cc0ec37cc093cd500ba6f518378f32da9e67"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-parks/fatehgarh",
+      "source": "CRAWL",
+      "targetPath": "/solar-parks/fatehgarh",
+      "id": "2e79cc62f03fc3cea17cbc5536550ea6bc217aaa"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-parks/Fatehgarh",
+      "source": "CRAWL",
+      "targetPath": "/solar-parks/fatehgarh",
+      "id": "530a508583f1cb6451a8e70c0d5d10011719630c"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power",
+      "source": "CRAWL",
+      "targetPath": "/solar-power",
+      "id": "9998ba1c301c3a05d4237f9d2d58bb985c5b5956"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power/chitrakoot",
+      "source": "CRAWL",
+      "targetPath": "/solar-power/chitrakoot",
+      "id": "9360ce836af274ed23343b4fe8f1882d42d1495b"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power/Chitrakoot",
+      "source": "CRAWL",
+      "targetPath": "/solar-power/chitrakoot",
+      "id": "4eb2034aeeb3a6e924fdd213f8bf901ecba84540"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power/kamuthi",
+      "source": "CRAWL",
+      "targetPath": "/solar-power/kamuthi",
+      "id": "1f1ea29167b23bc6397de192ce24f79901fc94e3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power/Kamuthi",
+      "source": "CRAWL",
+      "targetPath": "/solar-power/kamuthi",
+      "id": "038f937322cc816eef7f54d86a55de68e1976d8a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability",
+      "source": "CRAWL",
+      "targetPath": "/sustainability",
+      "id": "7f94275531c3604413bb6ecb0f2beb60035a2749"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Sustainability",
+      "source": "CRAWL",
+      "targetPath": "/sustainability",
+      "id": "a8972dd9658a260451c51baa28ba3a7e8ec13435"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability-downloads",
+      "source": "CRAWL",
+      "targetPath": "/sustainability-downloads",
+      "id": "09ea3752009e94c3e683ae500ed1c01a7a991218"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/air-emissions",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/air-emissions",
+      "id": "643d9f0ea223e8dccd34f44d6767b2d68e6abcae"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/communities",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/communities",
+      "id": "f15554e7d1ab1860a5a6628bcc368aa1539db05e"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/Communities",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/communities",
+      "id": "80b145667b90a5a40f874061086067bde82b4cc5"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/Sustainability/Communities",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/communities",
+      "id": "85b995ad23492ede82cde1c3aace1cf57c1ca83a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/social-health-environment-and-safety-management",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/social-health-environment-and-safety-management",
+      "id": "fdc5c0c60cafbee568bdfc97c418c8679f9fdbc3"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/social%20health-environment-and-safety-management",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/social-health-environment-and-safety-management",
+      "id": "6357d530a3a3e6f1e23f6f17f254f32848f7352a"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/waste-management",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/waste-management",
+      "id": "c864401c071bc6ff423eb0b093fe852d343ef982"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/water-management",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/water-management",
+      "id": "23dbb62431f5a1fdc7a3bf722c19cc8bd307ae89"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/terms-and-conditions",
+      "source": "CRAWL",
+      "targetPath": "/terms-and-conditions",
+      "id": "a2b1acb7a91ccd703b775e080dbcedee60a898bf"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/windpower",
+      "source": "CRAWL",
+      "targetPath": "/windpower",
+      "id": "9cc9899a70a424dc4f575f115caceddf492c5daf"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/28042022-Corrigendum-to-EGM-Notice.ashx",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Downloads/MSTPL%20CRZ%20Six%20Monthly%20Compliance%20ReportOctober2024%20to%20March2025",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-park",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found?item=%2fsolar-park&user=default%5cAnonymous&site=GreenEnergy"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/solar-power/Bathinda",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found?item=%2fsolar-power%2fbathinda&user=default%5cAnonymous&site=GreenEnergy"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/Environment/Fly-ash-management",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found?item=%2fsustainability%2fenvironment%2ffly-ash-management&user=default%5cAnonymous&site=GreenEnergy"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/sustainability/Environment/Water-management",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found?item=%2fsustainability%2fenvironment%2fwater-management&user=default%5cAnonymous&site=GreenEnergy"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/terms-of-use",
+      "status": "302 Moved Temporarily Redirect: https://www.adanigreenenergy.com/page-not-found?item=%2fterms-of-use&user=default%5cAnonymous&site=GreenEnergy"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found?item=%2fsustainability%2fenvironment%2fwater-management&user=default%5cAnonymous&site=GreenEnergy",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found?item=%2fsustainability%2fenvironment%2ffly-ash-management&user=default%5cAnonymous&site=GreenEnergy",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found?item=%2fsolar-power%2fbathinda&user=default%5cAnonymous&site=GreenEnergy",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found?item=%2fterms-of-use&user=default%5cAnonymous&site=GreenEnergy",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/page-not-found?item=%2fsolar-park&user=default%5cAnonymous&site=GreenEnergy",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Sustainability/ESG%20Report%20FY2023-24",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/About%20Us/Details%20of%20Directorships%20and%20full-time%20positions%20in%20Body%20Corporates%20held%20by%20Directors",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Sustainability/Power-Sector/COP%2026%20Brochure",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/greenenergy/Sustainability/CDP/2023_Climate_Change_Adani_Green_Energy_Limited",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Sustainability/CDP/IBBI%20Declaration_AGEL",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Sustainability/CDP/Biodiversity%20Policy_AGEL",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Sustainability/CDP/AGELSupplier%20Code%20of%20Conduct%20Final",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Result-presentation/Q32020_Updated",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Annual-Reports/AR-2018-19",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Result-Press-Release/Q3FY20",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Results-Conference-Call-Transcript/Q4-FY25---Equity",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Backup/Outcome-of-BM--04022020",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Analyst-Meet-Dynamic/May-2021---Fireside-chat-with-Bernstein/Investor-Video.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Analyst-Meet-Dynamic/April-2021---Project-Development-Excellence-Showcase/Project-Development-Excellence-Video.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Analyst-Meet-Dynamic/December-2020---AGEL---O-and-M-Excellence-through-ENOC/AGEL---O-and-M-Excellence-through-ENOC.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY25.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/10031025---Equity.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q3-FY25.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/media_720_LDA8YSGXmP.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q2-FY25.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q1-FY25.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY24-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY24.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q3-FY24.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q2-FY24-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q2-FY24.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q1-FY24.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY23-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY23.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q3-FY23-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q3-FY23.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q1-FY23.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q2-FY23.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q2-FY23-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q3-FY22.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY22.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Earnings-Call/Q4-FY22-Debt.mp3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Green-Assurance-Report-I/Assurance_Statement_GBP.PDF",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Green-Assurance-Report-I/Adani_Green_Bond_Report_GBP.PDF",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY25.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY24.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY23.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY-2019-20.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY-21.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY22.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/FY-2018-19.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Investor-Downloads/Financials-of-Subsidiary-Companies/2017-18.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/VIDEO-2024-03-09-21-26-55.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/Intimation-to-Stock-Exchanges---201920.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/Intimation_to_Stock_Exchanges_-_Part_I.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/NSDL_Adani-Green_25062024.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Others/NSDL_Green_Energy_AGM_25062025_1_Resize.mp4",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/Transmission/Media-library/765kVTirodaKoradiAkolaAurangaba",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/Transmission/Media-library/utility",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/Transmission/Media-library/500kVMundraMohindergarh",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Downloads/Khavda%20Residential%20Township%20AGELSix%20Monthly%20Compliance%20ReportOctober2024%20to%20March2025",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Downloads/AGEL%20Windmills%20CRZ%20Six%20Monthly%20Compliance%20ReportOct2024%20to%20March2025",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Downloads/MSTPL%20CRZSix%20Monthly%20Compliance%20ReportOctober2024%20to%20March2025",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/About-Us/Board-of-directors/Dinesh-Kanabar.bmp",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/About-Us/Board-of-directors/Neera-Saggi.JPEG",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/About-Us/Board-of-directors/Raminder-Singh-Gujral.bmp",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Newsroom/Media%20Release/Ann_Khavda%20renewable%20energy%20park",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.adanigreenenergy.com/-/media/Project/GreenEnergy/Newsroom/Media-Kit.zip",
+      "status": "content type is not text/html"
+    }
+  ]
+}
