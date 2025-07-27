@@ -11189,6 +11189,18 @@
           "xpath": "/html[1]/body[1]/main[1]"
         }
       ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 85,
+      "instances": [
+        {
+          "url": "https://www.adanigreenenergy.com/investors/analyst-coverage",
+          "urlHash": "034fe5ff1fb6381fa3937e18dcc586643df34b33",
+          "uuid": "034fe5ff-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -11204,12 +11216,6 @@
       "uuid": "03249f9a-03-62b707db4a6b4e012b707846294b489d5e0004c7",
       "xpath": "/html[1]/body[1]/footer[1]/div[2]",
       "section": "section-2"
-    },
-    {
-      "url": "https://www.adanigreenenergy.com/investors/analyst-coverage",
-      "urlHash": "034fe5ff1fb6381fa3937e18dcc586643df34b33",
-      "uuid": "034fe5ff-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
-      "xpath": "/html[1]/body[1]/main[1]"
     },
     {
       "url": "https://www.adanigreenenergy.com/investors/analyst-coverage",
