@@ -11189,6 +11189,18 @@
           "xpath": "/html[1]/body[1]/main[1]"
         }
       ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 85,
+      "instances": [
+        {
+          "url": "https://www.adanigreenenergy.com/solar-power/Kamuthi",
+          "urlHash": "038f937322cc816eef7f54d86a55de68e1976d8a",
+          "uuid": "038f9373-01-a14b7d0691292a0650a94e921f0a2b874152fe6f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -11217,12 +11229,6 @@
       "uuid": "034fe5ff-03-62b707db4a6b4e012b707846294b489d5e0004c7",
       "xpath": "/html[1]/body[1]/footer[1]/div[2]",
       "section": "section-2"
-    },
-    {
-      "url": "https://www.adanigreenenergy.com/solar-power/Kamuthi",
-      "urlHash": "038f937322cc816eef7f54d86a55de68e1976d8a",
-      "uuid": "038f9373-01-a14b7d0691292a0650a94e921f0a2b874152fe6f",
-      "xpath": "/html[1]/body[1]/main[1]/section[1]"
     },
     {
       "url": "https://www.adanigreenenergy.com/solar-power/Kamuthi",
