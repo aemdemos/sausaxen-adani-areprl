@@ -10415,12 +10415,6 @@
           "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[2]"
         },
         {
-          "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-portfolio-companies-complete-inr-15446-cr-secondary-equity-transaction-with-gqg-partners",
-          "urlHash": "306c24ebed4ec103e389c2c1c874061710b2ff30",
-          "uuid": "306c24eb-09-0d4676177a47694a06bd8a457be94deb396630b3",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
           "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-reports-EBITDA-of-Rs-7222-crore-up-30-YoY-in-FY24",
           "urlHash": "4489181243881468b3ebf1ddb2406872f484cf57",
           "uuid": "44891812-03-405204eaa52f4caafd0131a4c39629f01767e9b8",
@@ -11199,6 +11193,18 @@
           "urlHash": "038f937322cc816eef7f54d86a55de68e1976d8a",
           "uuid": "038f9373-01-a14b7d0691292a0650a94e921f0a2b874152fe6f",
           "xpath": "/html[1]/body[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 86,
+      "instances": [
+        {
+          "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-portfolio-companies-complete-inr-15446-cr-secondary-equity-transaction-with-gqg-partners",
+          "urlHash": "306c24ebed4ec103e389c2c1c874061710b2ff30",
+          "uuid": "306c24eb-09-0d4676177a47694a06bd8a457be94deb396630b3",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     }
