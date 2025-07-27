@@ -10409,6 +10409,12 @@
       "cluster": 54,
       "instances": [
         {
+          "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Portfolio-companies-complete-INR-15446-Cr-secondary-equity-transaction-with-GQG-Partners",
+          "urlHash": "c2c5c6b0966fc1db798d84149e8a0aa9b3ceaaea",
+          "uuid": "c2c5c6b0-09-0d4676177a47694a06bd8a457be94deb396630b3",
+          "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
           "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-sets-record-with-over-15000-mw-of-installed-renewable-energy-capacity",
           "urlHash": "2155629addddd5a1ab0d6f988b6b09daae146f10",
           "uuid": "2155629a-12-e53df49eed2bea968d172f120c2b0b235d6375dc",
@@ -10545,12 +10551,6 @@
           "urlHash": "c0071d343fe6bee7500c0ed7156eba534312ff86",
           "uuid": "c0071d34-03-405204eaa52f4caafd0131a4c39629f01767e9b8",
           "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Portfolio-companies-complete-INR-15446-Cr-secondary-equity-transaction-with-GQG-Partners",
-          "urlHash": "c2c5c6b0966fc1db798d84149e8a0aa9b3ceaaea",
-          "uuid": "c2c5c6b0-09-0d4676177a47694a06bd8a457be94deb396630b3",
-          "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
         },
         {
           "url": "https://www.adanigreenenergy.com/newsroom/media-releases/Adani-Green-Energy-Ltd-announces-H1-FY23-Results",
